@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e84c7a78-7937-470f-8c12-7c2033c146fb": {
+      "ProjectGuid": "e84c7a78-7937-470f-8c12-7c2033c146fb",
+      "DisplayName": "WSUniversalLib",
+      "ColorIndex": 0
+    },
+    "840a0cc2-4d7b-4aee-a638-eebafcd1c435": {
+      "ProjectGuid": "840a0cc2-4d7b-4aee-a638-eebafcd1c435",
+      "DisplayName": "WSUniversalLibTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

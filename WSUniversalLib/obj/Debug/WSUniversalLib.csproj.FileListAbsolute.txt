@@ -1,0 +1,6 @@
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\ПОЛЯКОВА\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.dll
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\ПОЛЯКОВА\WSUniversalLib\WSUniversalLib\bin\Debug\WSUniversalLib.pdb
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\ПОЛЯКОВА\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.AssemblyReference.cache
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\ПОЛЯКОВА\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.csproj.CoreCompileInputs.cache
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\ПОЛЯКОВА\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.dll
+C:\Users\andry\OneDrive\Documents\УЧЕБНАЯ ПРАКТИКА\ПОЛЯКОВА\WSUniversalLib\WSUniversalLib\obj\Debug\WSUniversalLib.pdb
